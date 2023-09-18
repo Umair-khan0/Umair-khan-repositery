@@ -1,2 +1,2 @@
-# Umair-khan-repositery
+# Umair-khan
 Repositery for the frontend projects.
